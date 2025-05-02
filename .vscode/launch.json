@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StartClient",
+            "request": "launch",
+            "mainClass": "client.StartClient",
+            "projectName": "chat_RMI_d99c115e"
+        },
+        {
+            "type": "java",
+            "name": "StartServer",
+            "request": "launch",
+            "mainClass": "server.StartServer",
+            "projectName": "chat_RMI_d99c115e"
+        },
+        {
+            "type": "java",
+            "name": "Iniciar Servidor",
+            "request": "launch",
+            "mainClass": "server.StartServer",
+            "projectName": "chat-rmi"
+        },
+        {
+            "type": "java",
+            "name": "Iniciar Cliente",
+            "request": "launch",
+            "mainClass": "client.StartClient",
+            "projectName": "chat-rmi"
+        }
+    ]
+}
